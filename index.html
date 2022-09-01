@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+	
+	</style>
+
+</head>
+<body>
+	<p id="mm"></p>
+	<input type="text" id="nom">
+	<button onclick="main()">add</button>
+	<script type="text/javascript">
+// 		localStorage.setItem("lastname", "Smith");
+// localStorage.getItem("lastname");
+document.getElementById("mm").innerHTML = localStorage.getItem("name")
+function main() {
+	let name= document.getElementById('nom').value;
+localStorage.setItem("name" , name)
+document.getElementById("mm").innerHTML = localStorage.getItem("name");
+}
+
+
+	</script>	
+
+
+</body>
+</html>
