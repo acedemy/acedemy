@@ -6,6 +6,13 @@
   </div>
   
 <p>✨ SUB MY YT CHANNEL✨  </p>
+<button onclick="main()">cleck this button</button>
+
+	<script type="text/javascript">
+		function main() {
+			document.getElementById('py').src = "https://yt3.ggpht.com/H418zVdoiKMrnvIAdAg_7j5ym40ph9a8crzf9MvZoOAcve3hNP-nPTmGSqdGOrJ02Zik-fH3sQ=s900-c-k-c0x00ffffff-no-rj"
+		}
+	</script>
 <!---
 acedemy/acedemy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
