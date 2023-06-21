@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 ◦➛  « » ●■ ☆
 --->
 
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=DARK+NA+COMMING+SOON;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
