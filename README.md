@@ -13,5 +13,8 @@ acedemy/acedemy is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 ◦➛  « » ●■ ☆
 --->
+<p align="center">
 <a href="https://github.com/acedemy/followers"><img title="Followers" src="https://img.shields.io/github/followers/acedemy?color=red&style=flat-square">
+</a>
+</p>
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=DARK+NA+V3+COMMING+SOON)](https://git.io/typing-svg)
